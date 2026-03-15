@@ -27,4 +27,4 @@ Open source. Use freely in your projects.
 
 ---
 
-*Maintained by [SumVec AI](https://sumvec.ai)*
+*Maintained by [Sumvec AI](https://sumvec.ai)*
