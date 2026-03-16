@@ -6,7 +6,7 @@ These protocols are designed to be dropped into any project that uses AI coding 
 
 ## Protocols
 
-### [Universal AI Coding Protocol](protocols/UNIVERSAL_CODING_PROTOCOL.md)
+### [AI Coding Protocol](protocols/UNIVERSAL_CODING_PROTOCOL.md)
 A comprehensive coding standard that counteracts systematic biases in AI-generated code. Covers defensive coding, state management, scoring systems, security defaults, error handling, testing philosophy, and more.
 
 ### [Testing Protocol](protocols/TESTING_PROTOCOL.md)
